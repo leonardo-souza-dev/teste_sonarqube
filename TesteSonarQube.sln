@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteSonarQube.UI", "TesteSonarQube.UI\TesteSonarQube.UI.csproj", "{BA54DEA7-2671-4FC2-AC27-9C90BD9AA184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteSonarQube.Teste", "TesteSonarQube.Teste\TesteSonarQube.Teste.csproj", "{03B28790-9CB5-4227-8261-3402D009CA71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA54DEA7-2671-4FC2-AC27-9C90BD9AA184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA54DEA7-2671-4FC2-AC27-9C90BD9AA184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA54DEA7-2671-4FC2-AC27-9C90BD9AA184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA54DEA7-2671-4FC2-AC27-9C90BD9AA184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03B28790-9CB5-4227-8261-3402D009CA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B28790-9CB5-4227-8261-3402D009CA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B28790-9CB5-4227-8261-3402D009CA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B28790-9CB5-4227-8261-3402D009CA71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B646CC1A-BDA5-4411-BD05-10B0AC5EBE98}
+	EndGlobalSection
+EndGlobal

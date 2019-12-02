@@ -1,0 +1,6 @@
+projectKey=Foo
+serverUrl=http://localhost:9005
+serverVersion=8.0.0.29455
+dashboardUrl=http://localhost:9005/dashboard?id=Foo
+ceTaskId=AW64oqrPUhYOwQlqj58-
+ceTaskUrl=http://localhost:9005/api/ce/task?id=AW64oqrPUhYOwQlqj58-

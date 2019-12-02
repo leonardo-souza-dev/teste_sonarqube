@@ -1,0 +1,1 @@
+C:\Projects\MyProject\MyProject.UI\.sonarqube\out\1
