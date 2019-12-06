@@ -2,5 +2,5 @@ projectKey=TesteSonarQube
 serverUrl=http://localhost:9005
 serverVersion=8.0.0.29455
 dashboardUrl=http://localhost:9005/dashboard?id=TesteSonarQube
-ceTaskId=AW7IEznuzFxI8IEeyR78
-ceTaskUrl=http://localhost:9005/api/ce/task?id=AW7IEznuzFxI8IEeyR78
+ceTaskId=AW7bsmkjCgMKHfNbfbrs
+ceTaskUrl=http://localhost:9005/api/ce/task?id=AW7bsmkjCgMKHfNbfbrs

@@ -44,7 +44,7 @@
     <Property Name="sonar.notifications.runningDelayBeforeReportingStatus">600</Property>
     <Property Name="sonar.jsp.file.suffixes">.jsp,.jspf,.jspx</Property>
     <Property Name="sonar.javascript.environments">amd, applescript, atomtest, browser, commonjs, couch, embertest, flow, greasemonkey, jasmine, jest, jquery, meteor, mocha, mongo, nashorn, node, phantomjs, prototypejs, protractor, qunit, rhino, serviceworker, shared-node-browser, shelljs, webextensions, worker, wsh, yui</Property>
-    <Property Name="sonar.scm.disabled">false</Property>
+    <Property Name="sonar.scm.disabled">true</Property>
     <Property Name="sonar.typescript.exclusions">**/node_modules/**,**/bower_components/**</Property>
     <Property Name="sonar.auth.saml.enabled">false</Property>
     <Property Name="sonar.vbnet.file.suffixes">.vb</Property>
@@ -103,7 +103,8 @@
     <Property Name="sonar.java.collectAnalysisErrors">false</Property>
     <Property Name="sonar.updatecenter.url">https://update.sonarsource.org/update-center.properties</Property>
     <Property Name="sonar.core.id">CEC5B52C-AW6t66nHJ5gj0dzpAt5J</Property>
-    <Property Name="sonar.core.startTime">02/12/2019 14:49:09</Property>
+    <Property Name="sonar.core.startTime">04/12/2019 14:12:22</Property>
+    <Property Name="sonar.scm.provider">git</Property>
   </ServerSettings>
   <LocalSettings />
   <AnalyzersSettings>

@@ -1,13 +1,9 @@
-º
-<C:\Projects\TesteSonarQube\TesteSonarQube.Teste\UnitTest1.cs
+‹
+EC:\Projects\TesteSonarQube\TesteSonarQube.UITests\CalculadoraTests.cs
 
- 
+ !
 
- 1
- 1 8
- % -
-
- 1
- 2 9
- !!% -L
-JC:\Projects\TesteSonarQube\TesteSonarQube.Teste\Properties\AssemblyInfo.cs
+ 
+  '
+  (N
+LC:\Projects\TesteSonarQube\TesteSonarQube.UITests\Properties\AssemblyInfo.cs
